@@ -1,3 +1,4 @@
 # VndGroupWeb
 
-[Coming Soon Web](
+[Coming Soon Web](https://venujast.github.io/VndGroupWeb/)
+
